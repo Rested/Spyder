@@ -1,0 +1,2 @@
+Spyder
+A little GUI python Pmw application which downloads spotify playlists or youtube playlists or individual songs from their youtube videos using yt-downloader and converts to mp3 using ffmpeg.
